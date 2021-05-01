@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[682],{5518:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return u}});var n=l(7294),r=l(4374),o=l(3751);function u(){return n.createElement(r.Z,null,n.createElement(o.Z,{title:"About | Woody Shin",description:"Woody Shin's Personal Portfolio"}),n.createElement("div",null,n.createElement("h1",null,"About me"),n.createElement("p",null,"I'm Woody.")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-ab34f78645158a94312b.js.map
